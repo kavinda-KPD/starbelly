@@ -19,6 +19,8 @@ export const metadata = {
   description: AppData.settings.siteDescription,
 }
 
+/* This is the about page*/
+
 const About1 = () => {
   return (
     <>
